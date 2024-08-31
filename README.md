@@ -4,10 +4,13 @@ system installation for pistis DevOps mentorship program.
 
 overview.
 
-install choco package manager
-install git bash
-install vs code
-install OpenSSH sever
+1.install choco package manager
+
+2.install git bash
+
+3.install vs code
+
+4.install OpenSSH sever
 1. install choco package manager. a. by using powershell
 
 Open PowerShell as Administrator: Search for PowerShell, right-click on it, and select "Run as Administrator".
