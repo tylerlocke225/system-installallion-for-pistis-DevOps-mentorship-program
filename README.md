@@ -39,4 +39,8 @@ Start and Configure the SSH Server:
 
 Start the SSH server
 
-command: Start-Service sshd Set the SSH server to start automatically with Windows command: Set-Service -Name sshd -StartupType 'Automatic' Confirm Installation: To verify that the OpenSSH Server is installed and running, you can use: command: Get-Service -Name sshd
+command: Start-Service sshd Set the SSH server to start automatically with Windows
+
+command: Set-Service -Name sshd -StartupType 'Automatic' 
+
+Confirm Installation: To verify that the OpenSSH Server is installed and running, you can use: command: Get-Service -Name sshd
